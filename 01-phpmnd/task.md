@@ -1,3 +1,0 @@
-# Task
-
-Run `run.sh`.

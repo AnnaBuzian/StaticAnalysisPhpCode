@@ -1,5 +1,4 @@
 #
-
 Do the following to use the docker image, providing static analysis tools for PHP:
 
 ```sh
