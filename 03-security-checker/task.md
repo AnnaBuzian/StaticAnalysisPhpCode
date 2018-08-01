@@ -1,5 +1,5 @@
 # Task
 
 ```sh
-phpqa security-checker analyse
+phpStaticAnalysisProject security-checker security:check /path/to/composer.lock
 ```
